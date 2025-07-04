@@ -1,4 +1,4 @@
-```markdown
+
 # EduChain MCP Server Integration
 
 ## 📚 Project Overview
@@ -21,7 +21,7 @@ This project demonstrates how to integrate the [`educhain`](https://github.com/s
 
 The demo video showing the MCP server in action is included in the repository:
 
-[Download Demo Video](./MCP%20Server%20demo.mp4)
+[Download Demo Video](https://youtu.be/KC-IsJOx9fM?si=X3Y4qChzFZtL7ldG)
 
 ---
 
@@ -90,4 +90,4 @@ The server will expose tools for generating MCQs, lesson plans, and flashcards v
 - [Educhain Library](https://github.com/satvik314/educhain)
 - [MCP Documentation](https://modelcontextprotocol.io/introduction)
 - [Claude Desktop Download](https://claude.ai/download)
-```
+
