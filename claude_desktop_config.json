@@ -1,10 +1,10 @@
 {
   "mcpServers": {
     "Educhain Engine": {
-      "command": "E:\\buildfast\\mcp-server-demo\\.venv\\Scripts\\mcp.exe",
+      "command": "E:\\MCP_Server_Educhain\\.venv\\Scripts\\mcp.exe",
       "args": [
         "run",
-        "E:\\buildfast\\mcp-server-demo\\server.py"
+        "E:\\MCP_Server_Educhain\\server.py"
       ]
     }
   }
