@@ -40,7 +40,6 @@ mcp-server-demo/
 ├── requirements.txt # Python dependencies
 ├── pyproject.toml # MCP project metadata
 ├── uv.lock # Dependency lockfile (uv)
-├── MCP Server demo.mp4 # Walkthrough video
 └── README.md # This documentation
 ```
 
